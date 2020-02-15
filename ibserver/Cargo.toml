@@ -1,0 +1,7 @@
+[package]
+name = "imageboard_server"
+version = "0.1.0"
+authors = ["Serxka <serxka@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
