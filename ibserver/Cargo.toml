@@ -5,3 +5,8 @@ authors = ["Serxka <serxka@protonmail.com>"]
 edition = "2018"
 
 [dependencies]
+actix-web = "2.0"
+actix-rt = "1.0"
+serde = "1.0"
+dotenv = "0.10"
+env_logger = "*"
